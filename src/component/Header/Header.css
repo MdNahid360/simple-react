@@ -1,0 +1,51 @@
+nav{
+      display:flex!important;
+       background-image: linear-gradient(90deg,rgb(68, 0, 255), rgb(140, 0, 255));  
+    position: fixed!important;
+    top: 0;
+    
+    width: 100%!important;
+    z-index: 1;
+}  
+.nav-link{
+    color: white!important;
+    font-weight: 500!important;
+}
+
+.bars{
+    
+    margin-left: auto;
+    font-size: 30px;
+
+}
+
+@media (min-width:320px) { 
+   
+ }
+
+@media (min-width:360px) { 
+    
+ }
+
+@media (min-width: 480px) { 
+    
+ }
+
+@media (min-width: 576px) { 
+    
+ }
+
+
+@media (min-width: 768px) { 
+    
+ }
+
+
+@media (min-width: 992px) { 
+    
+ }
+
+
+@media (min-width: 1200px) { 
+    
+ }

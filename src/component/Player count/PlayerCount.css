@@ -1,0 +1,28 @@
+.player-ifo{
+    background: rgb(248, 244, 244);
+    width:300px;
+    margin: auto;
+    padding:10px;
+    color: rgb(0, 0, 83);
+    text-align: left!important;
+    overflow: hidden!important;
+    border-radius:8px;
+     
+}
+.total{
+     box-sizing: border-box;
+    overflow: hidden;
+    width:200px;
+   
+
+
+}
+.clr{
+    color:rgb(0, 82, 129);
+}
+
+.nahid{
+     background-color:rgb(255, 0, 119);
+     border: 0px;
+     width:100%;
+}
